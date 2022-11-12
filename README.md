@@ -12,7 +12,7 @@ These dashboard are done in power BI desktop.
 ## Roadmap
 
 - First step is to import data from sql to power BI.
-     SQL contains two databases the databases from sql are imported to power bi.Removed the connections between those tables.  
+     SQL contains two databases the databases from sql are imported to power bi.  
 
 - Prepared the first page for the project it contains the titles of the other pages in the dashboard.
 - After that there are  five pages Prepared
@@ -21,7 +21,7 @@ These dashboard are done in power BI desktop.
     - Marketing view
     - Supply chain view 
 - In addition to that we are creating excecutive page for excecutives in the company.
-- The final two pages are info and support for the people who are using this dashboard.
+- The final two pages are info and support for the non-technical people  who are using this dashboard.
 
 
 
